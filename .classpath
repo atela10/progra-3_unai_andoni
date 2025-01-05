@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="prog3_2024_25_proyecto_gimnasio-master/src"/>
+	<classpathentry kind="lib" path="prog3_2024_25_proyecto_gimnasio-master/lib/slf4j-api-2.0.16.jar"/>
+	<classpathentry kind="lib" path="prog3_2024_25_proyecto_gimnasio-master/lib/slf4j-simple-2.0.16.jar"/>
+	<classpathentry kind="lib" path="prog3_2024_25_proyecto_gimnasio-master/lib/sqlite-jdbc-3.47.0.0.jar"/>
+	<classpathentry kind="output" path="prog3_2024_25_proyecto_gimnasio-master/bin"/>
+</classpath>
